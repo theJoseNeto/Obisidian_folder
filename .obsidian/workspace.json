@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "91672a0d7526df44",
+    "type": "split",
+    "children": [
+      {
+        "id": "79317f6a79fb8499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1046df937333e468",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9013ded91962a6e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c95a87dc8a17f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ddac7fba82df52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c54a13531bfe52a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0febba59b71cece7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a229b81c0319486",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "751a0ce4b11c90ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2360201751263fc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "001dafda814fa131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810a2cca962f0d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b516053e3dfc5b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6faaaae97ca56a66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbb6ff1e505e07dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2c54a13531bfe52a",
+  "lastOpenFiles": [
+    "Projeto PMPE/Matérias/Port./sinonímia.md",
+    "Projeto PMPE/Matérias/Port./polissemia.md",
+    "Projeto PMPE/Matérias/Port./antonímia.md",
+    "Projeto PMPE/Matérias/Port./Relações_coesivas.md",
+    "Projeto PMPE/Matérias/Port./Português.md",
+    "Projeto PMPE/Matérias/Mat./Matemática.md",
+    "Projeto PMPE/Matérias/Hist/História.md",
+    "Projeto PMPE/Matérias/Geo./Geografia.md",
+    "Projeto PMPE/Matérias/Dir./Direito.md",
+    "Projeto PMPE/Matérias/Port.",
+    "Projeto PMPE/Matérias/Mat.",
+    "Projeto PMPE/Matérias/Hist",
+    "Projeto PMPE/Matérias/Geo.",
+    "Projeto PMPE/Matérias/Dir.",
+    "Projeto PMPE/Projeto polícia militar.md",
+    "Projeto PMPE/Matérias",
+    "Projeto PMPE",
+    "Projeto PMPE /Matérias/Port./Relações_coesivas.md",
+    "Projeto PMPE /Matérias/Port./Português.md",
+    "Relações.md",
+    "Projeto PMPE /Matérias/Port./antonímia.md",
+    "Projeto PMPE /Matérias/Port./sinonímia.md",
+    "Projeto PMPE /Projeto polícia militar.md",
+    "Projeto PMPE /Matérias/Port./polissemia.md",
+    "Projeto PMPE /Matérias/Hist",
+    "Projeto PMPE /Matérias/Dir.",
+    "Projeto PMPE /Matérias/Geo.",
+    "Projeto PMPE /Matérias/Dir./Direito.md",
+    "Projeto PMPE /Index 1.md",
+    "Projeto PMPE /Matérias/Português/Assuntos/Assuntos (link).md",
+    "Projeto PMPE /Matérias/Português/Assuntos/polissemia.md",
+    "Projeto PMPE /Matérias/Português/Assuntos/antonímia.md",
+    "Projeto PMPE /Matérias/Português/Assuntos/Sinonímia.md",
+    "Aspectos.md",
+    "Projeto PMPE /Historia.md",
+    "Projeto PMPE /Matérias/Hist/História.md"
+  ]
+}
