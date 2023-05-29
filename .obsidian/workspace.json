@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "79317f6a79fb8499",
+        "id": "6598d4c8322ffb88",
         "type": "tabs",
         "children": [
           {
-            "id": "1046df937333e468",
+            "id": "a017af4961dba8aa",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "9013ded91962a6e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "right": {
     "id": "2360201751263fc6",
@@ -157,43 +146,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2c54a13531bfe52a",
+  "active": "a017af4961dba8aa",
   "lastOpenFiles": [
+    "Projeto PMPE/Matérias/Hist/caetes/Localizacao_geografica_caetes.md",
+    "Projeto PMPE/Matérias/Hist/caetes/Caetés.md",
+    "caetes/Localizacao_geografica_caetes.md",
+    "caetes",
+    "Projeto PMPE/Matérias/Hist/Ocupação_no_período_pre_colonial.md",
+    "cates/Localizacao_geografica_caetes.md",
+    "cates",
+    "Projeto PMPE/Matérias/Hist/caetes/Distribuição_geográficas_caetes.md",
+    "Organização_Social_caetes.md",
+    "Modo_de_subsistência_caetes.md",
+    "Projeto PMPE/Matérias/Hist/caetes",
+    "Projeto PMPE/Matérias/Hist/História.md",
+    "Projeto PMPE/Matérias/Hist/Tupis",
+    "Tecnologias_e_artefatos_caetes.md",
+    "Influência_na_língua_portuguesa_caetes.md",
+    "Resistencia_e_legado_caetes.md",
+    "Projeto PMPE/Matérias/Hist/Tupis/Tupis.md",
+    "Projeto PMPE/Projeto polícia militar.md",
+    "Projeto PMPE/Matérias/Hist/Tupis/Resistencia_e_legado_tupis.md",
+    "Projeto PMPE/Sem título",
+    "Projeto PMPE/Matérias/Hist/Tupis/Tecnologias_e_artefatos_tupis.md",
+    "Projeto PMPE/Matérias/Hist/Tupis/Influência_na_língua_portuguesa_tupis.md",
+    "Tecnologias.md",
+    "Projeto PMPE/Matérias/Hist/Tapuias.md",
+    "Projeto PMPE/Matérias/Hist/Tupis/Modo_de_subsistência_tupis.md",
+    "Projeto PMPE/Matérias/Hist/Tupis/Organização_Social_tupis.md",
+    "Projeto PMPE/Matérias/Hist/Tupis/Distribuição_geográficas_tupis.md",
+    "Ocupação_no_período_pre_colonial.md",
     "Projeto PMPE/Matérias/Port./sinonímia.md",
     "Projeto PMPE/Matérias/Port./polissemia.md",
     "Projeto PMPE/Matérias/Port./antonímia.md",
-    "Projeto PMPE/Matérias/Port./Relações_coesivas.md",
-    "Projeto PMPE/Matérias/Port./Português.md",
-    "Projeto PMPE/Matérias/Mat./Matemática.md",
-    "Projeto PMPE/Matérias/Hist/História.md",
-    "Projeto PMPE/Matérias/Geo./Geografia.md",
-    "Projeto PMPE/Matérias/Dir./Direito.md",
     "Projeto PMPE/Matérias/Port.",
     "Projeto PMPE/Matérias/Mat.",
     "Projeto PMPE/Matérias/Hist",
     "Projeto PMPE/Matérias/Geo.",
-    "Projeto PMPE/Matérias/Dir.",
-    "Projeto PMPE/Projeto polícia militar.md",
-    "Projeto PMPE/Matérias",
-    "Projeto PMPE",
-    "Projeto PMPE /Matérias/Port./Relações_coesivas.md",
-    "Projeto PMPE /Matérias/Port./Português.md",
-    "Relações.md",
-    "Projeto PMPE /Matérias/Port./antonímia.md",
-    "Projeto PMPE /Matérias/Port./sinonímia.md",
-    "Projeto PMPE /Projeto polícia militar.md",
-    "Projeto PMPE /Matérias/Port./polissemia.md",
-    "Projeto PMPE /Matérias/Hist",
-    "Projeto PMPE /Matérias/Dir.",
-    "Projeto PMPE /Matérias/Geo.",
-    "Projeto PMPE /Matérias/Dir./Direito.md",
-    "Projeto PMPE /Index 1.md",
-    "Projeto PMPE /Matérias/Português/Assuntos/Assuntos (link).md",
-    "Projeto PMPE /Matérias/Português/Assuntos/polissemia.md",
-    "Projeto PMPE /Matérias/Português/Assuntos/antonímia.md",
-    "Projeto PMPE /Matérias/Português/Assuntos/Sinonímia.md",
-    "Aspectos.md",
-    "Projeto PMPE /Historia.md",
-    "Projeto PMPE /Matérias/Hist/História.md"
+    "Projeto PMPE/Matérias/Dir."
   ]
 }
