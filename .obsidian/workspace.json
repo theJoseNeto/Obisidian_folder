@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6598d4c8322ffb88",
+        "id": "b7239bf04fc0cc39",
         "type": "tabs",
         "children": [
           {
-            "id": "a017af4961dba8aa",
+            "id": "5440d339e221e9ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projeto-PMPE/Matérias/Mat./progressao_aritmetica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projeto-PMPE/Matérias/Mat./progressao_aritmetica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projeto-PMPE/Matérias/Mat./progressao_aritmetica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projeto-PMPE/Matérias/Mat./progressao_aritmetica.md"
+              }
             }
           }
         ]
@@ -146,43 +154,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a017af4961dba8aa",
+  "active": "5440d339e221e9ce",
   "lastOpenFiles": [
-    "Projeto PMPE/Matérias/Hist/caetes/Localizacao_geografica_caetes.md",
-    "Projeto PMPE/Matérias/Hist/caetes/Caetés.md",
-    "caetes/Localizacao_geografica_caetes.md",
+    "Sem título.md",
+    "Projeto-PMPE/Matérias/Mat./progressao_aritmetica.md",
+    "Projeto-PMPE/Matérias/Mat./Matemática.md",
+    "Projeto-PMPE/Matérias/Mat./funcoes.md",
+    "Projeto-PMPE/Matérias/Mat./analise_combinatoria.md",
+    "Projeto-PMPE/Matérias/Mat./juros_compostos.md",
+    "Projeto-PMPE/Matérias/Mat./juros_simples.md",
+    "Projeto-PMPE/Matérias/Mat./progressao_geometrica.md",
+    "Projeto-PMPE/Matérias/Mat./probabilidade.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Bacia_hidrográfica.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/rio_capibaribe.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/rio_beberibe.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Rio_camaragibe.md",
+    "Projeto-PMPE/Matérias/Geo./Geografia.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Cofluencia_beberibe.md",
+    "Bacia_Hidrografica.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Hidrografia_de_Pernambuco.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Capibaribe_mirim.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/rio_goita.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Rio_São_Francisco.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Rio_camevou.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/co_fluencia.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Rio_goiana.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia/Riacho_dos_Cachorros.md",
+    "Projeto-PMPE/Matérias/Geo./Hidrografia",
+    "Projeto-PMPE/Matérias/Hist/Arte_e_cultura.md",
+    "Projeto-PMPE/Matérias/Hist/Território_e_deslocamento.md",
+    "Projeto-PMPE/Matérias/Hist/cariris",
+    "Projeto PMPE/Matérias/Hist/Cariris",
+    "Matérias/Hist",
+    "Matérias",
     "caetes",
-    "Projeto PMPE/Matérias/Hist/Ocupação_no_período_pre_colonial.md",
-    "cates/Localizacao_geografica_caetes.md",
     "cates",
-    "Projeto PMPE/Matérias/Hist/caetes/Distribuição_geográficas_caetes.md",
-    "Organização_Social_caetes.md",
-    "Modo_de_subsistência_caetes.md",
-    "Projeto PMPE/Matérias/Hist/caetes",
-    "Projeto PMPE/Matérias/Hist/História.md",
-    "Projeto PMPE/Matérias/Hist/Tupis",
-    "Tecnologias_e_artefatos_caetes.md",
-    "Influência_na_língua_portuguesa_caetes.md",
-    "Resistencia_e_legado_caetes.md",
-    "Projeto PMPE/Matérias/Hist/Tupis/Tupis.md",
-    "Projeto PMPE/Projeto polícia militar.md",
-    "Projeto PMPE/Matérias/Hist/Tupis/Resistencia_e_legado_tupis.md",
-    "Projeto PMPE/Sem título",
-    "Projeto PMPE/Matérias/Hist/Tupis/Tecnologias_e_artefatos_tupis.md",
-    "Projeto PMPE/Matérias/Hist/Tupis/Influência_na_língua_portuguesa_tupis.md",
-    "Tecnologias.md",
-    "Projeto PMPE/Matérias/Hist/Tapuias.md",
-    "Projeto PMPE/Matérias/Hist/Tupis/Modo_de_subsistência_tupis.md",
-    "Projeto PMPE/Matérias/Hist/Tupis/Organização_Social_tupis.md",
-    "Projeto PMPE/Matérias/Hist/Tupis/Distribuição_geográficas_tupis.md",
-    "Ocupação_no_período_pre_colonial.md",
-    "Projeto PMPE/Matérias/Port./sinonímia.md",
-    "Projeto PMPE/Matérias/Port./polissemia.md",
-    "Projeto PMPE/Matérias/Port./antonímia.md",
-    "Projeto PMPE/Matérias/Port.",
-    "Projeto PMPE/Matérias/Mat.",
-    "Projeto PMPE/Matérias/Hist",
-    "Projeto PMPE/Matérias/Geo.",
-    "Projeto PMPE/Matérias/Dir."
+    "Projeto-PMPE/Matérias/Hist/caetes",
+    "Projeto-PMPE/Matérias/Hist/Tupis",
+    "Projeto PMPE/Sem título"
   ]
 }

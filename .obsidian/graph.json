@@ -11,20 +11,27 @@
       "query": "H-PE",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5973285
+      }
+    },
+    {
+      "query": "G-PE",
+      "color": {
+        "a": 1,
+        "rgb": 1955088
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 0.814583333333333,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.12083333333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.255208333333333,
+  "centerStrength": 0.203125,
   "repelStrength": 13.4375,
-  "linkStrength": 1,
+  "linkStrength": 0.489583333333333,
   "linkDistance": 30,
-  "scale": 0.676032733371948,
+  "scale": 0.5085295810996265,
   "close": true
 }

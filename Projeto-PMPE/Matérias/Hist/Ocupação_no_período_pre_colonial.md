@@ -10,8 +10,9 @@ Os primeiros registros de ocupação humana são datados de 11 mil anos atrás. 
 
 ### Organização dos povos indígenas 
 
-Tínhamos uma diversidade de povos imensa em nossa região, como os [Tupis](Tupis.md), [Tapuias](Tapuias.md), [Caetés](Caetés.md), Potiguaras, Cariris. 
+Tínhamos uma diversidade de povos imensa em nossa região, como os [Tupis](Tupis.md), [Tapuias](Tapuias.md), [Caetés](Caetés.md), Potiguaras, [Cariris](Cariris.md). 
 
+Veja também, as características socioculturais das populações indígenas que habitavam o território do atual estado de Pernambuco, antes dos primeiros contatos euro-americanos clicando [aqui](Características_socioculturais_dos_indigenas.md)
 
 
 ###### Tags
